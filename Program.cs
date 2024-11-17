@@ -1,5 +1,5 @@
 using System.Xml.Linq;
-namespace ConsoleApp2
+namespace OOP_Labb4
 {
     class Program
     {
